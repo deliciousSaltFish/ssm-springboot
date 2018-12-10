@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo-eureka-client/demo-eureka-client.iml" filepath="$PROJECT_DIR$/demo-eureka-client/demo-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-eureka-server/demo-eureka-server.iml" filepath="$PROJECT_DIR$/demo-eureka-server/demo-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ribbon/demo-ribbon.iml" filepath="$PROJECT_DIR$/demo-ribbon/demo-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickstart/quickstart.iml" filepath="$PROJECT_DIR$/quickstart/quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm-springboot.iml" filepath="$PROJECT_DIR$/ssm-springboot.iml" />
     </modules>
