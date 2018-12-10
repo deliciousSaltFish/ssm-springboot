@@ -8,15 +8,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@EnableEurekaClient
-@RestController
-public class DemoEurekaClientApplication {
 
+//@EnableEurekaClient//新版本不需要注解也可以
+
+public class DemoEurekaClientApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoEurekaClientApplication.class, args);
-    }
-    @RequestMapping("/client")
-    public String client (){
-        return "Client Successful!";
     }
 }
